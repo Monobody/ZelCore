@@ -333,7 +333,7 @@ const coininfo = {
       "https://btczexplorer.blockhub.info",
     ],
     medium: "",
-    discord: "",
+    discord: "https://discord.gg/uxa9yafU",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2166510",
     facebook: "BTCZCommunity",
